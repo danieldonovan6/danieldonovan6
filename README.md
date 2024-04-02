@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Applying Filters to SQL Queries](https://github.com/danieldonovan6/ApplyingSQLFilters)
+- [Changing File Permissions in Linux]()
 
 <h2>Certifications:</h2>
 
