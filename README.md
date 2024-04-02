@@ -4,6 +4,10 @@
 
 - [Applying Filters to SQL Queries](https://github.com/danieldonovan6/ApplyingSQLFilters)
 - [Changing File Permissions in Linux](https://github.com/danieldonovan6/ChangingLinux-Permissions)
+- [Security Incident Handler's Journal](https://github.com/danieldonovan6)
+- [Incident Report Analysis](https://github.com/danieldonovan6)
+- [Vulnerability Assessment Report](https://github.com/danieldonovan6)
+- [Security Audit Assessment](https://github.com/danieldonovan6)
 
 <h2>Certifications:</h2>
 
