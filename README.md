@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://www.linkedin.com/in/danieldonovan6/">Cybersecurity Professional</a>,
+<h1>Hi, I'm Daniel! <a href="https://www.linkedin.com/in/danieldonovan6/">Cybersecurity Professional</a>,
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
